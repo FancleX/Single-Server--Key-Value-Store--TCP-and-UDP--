@@ -1,7 +1,4 @@
 # Single-Server--Key-Value-Store--TCP-and-UDP--
-Guidelines 
-Project #1 should be electronically submitted to Canvas by midnight on the due date.  A submission link 
-is provided on Canvas. 
  
 # Assignment Overview 
 For this project, you will write a server program that will serve as a key value store.  It will be set up to 
